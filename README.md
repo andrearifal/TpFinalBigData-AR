@@ -1,0 +1,9 @@
+# TpFinalBigData-AR
+# Importaciones
+# Credenciales
+# Autenticacion
+# Extraccion
+# DataFrame
+# Analisis
+# AnalisisDeSentimientos
+# Grafico
